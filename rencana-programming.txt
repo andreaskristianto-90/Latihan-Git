@@ -1,3 +1,6 @@
 Rencana Programming 
 - Belajar Javascript
+  1. console.log 
+  2. Hello world 
+  3. variable 
 - Node js 
