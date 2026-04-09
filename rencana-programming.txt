@@ -3,5 +3,8 @@ Rencana Programming
   1. console.log 
   2. Hello world 
   3. variable 
+- Framework JS 
 - Node js 
 - Struktur Data Dasar  
+- Phyton 
+
