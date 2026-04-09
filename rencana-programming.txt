@@ -4,7 +4,10 @@ Rencana Programming
   2. Hello world 
   3. variable 
 - Framework JS 
+  1. React 
+  2. Vue
 - Node js 
 - Struktur Data Dasar  
 - Phyton 
+ 
 
